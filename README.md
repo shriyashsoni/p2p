@@ -1,4 +1,4 @@
-# PeerMentor – Peer-to-Peer Learning & Mentorship Platform
+# Peerly – Peer-to-Peer Learning & Mentorship Platform
 
 Empowering learners to become mentors — one peer at a time.
 
